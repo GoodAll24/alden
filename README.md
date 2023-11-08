@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GoodAll24
-- 👀 I’m interested in Blockchain Dev
+- 👀 I’m interested in backend-dev and DL
+- I have some knowledge in python, java and C++
 - 🌱 I’m currently learning Javascript
 
 
