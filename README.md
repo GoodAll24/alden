@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoodAll24
+- 👋 Hi, I’m @alden
 - 👀 I’m interested in backend-dev and DL
 - I have some knowledge in python, java and C++
 - 🌱 I’m currently learning Javascript
